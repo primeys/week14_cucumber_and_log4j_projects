@@ -1,0 +1,191 @@
+2019-11-05 19:11:969 INFO  HomePage :65 - Click on login link
+2019-11-05 19:11:402 INFO  HomePage :19 - Enter email address
+2019-11-05 19:11:472 INFO  HomePage :24 - Enter password
+2019-11-05 19:11:719 INFO  HomePage :29 - Click on login button
+2019-11-05 19:11:741 INFO  HomePage :65 - Click on login link
+2019-11-05 19:11:140 INFO  HomePage :34 - Get welcome text
+2019-11-05 19:11:212 INFO  HomePage :70 - Click on register link
+2019-11-05 19:11:744 INFO  HomePage :96 - Click on register text
+2019-11-05 19:11:206 INFO  HomePage :70 - Click on register link
+2019-11-05 19:11:612 INFO  HomePage :32 - Click on male
+2019-11-05 19:11:702 INFO  HomePage :41 - Enter first name
+2019-11-05 19:11:797 INFO  HomePage :46 - Enter last name
+2019-11-05 19:11:700 INFO  HomePage :51 - Select date of birth
+2019-11-05 19:11:906 INFO  HomePage :56 - Select month of birth 
+2019-11-05 19:11:104 INFO  HomePage :61 - Select year of birth
+2019-11-05 19:11:266 INFO  HomePage :66 - Enter email address
+2019-11-05 19:11:543 INFO  HomePage :71 - Enter company name
+2019-11-05 19:11:730 INFO  HomePage :81 - Enter password
+2019-11-05 19:11:927 INFO  HomePage :86 - Enter confirm password
+2019-11-05 19:11:59 INFO  HomePage :91 - Click on register button
+2019-11-05 19:11:670 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:204 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:970 INFO  HomePage :43 - Get desktop text
+2019-11-05 19:11:278 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:216 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:329 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:282 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:310 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:422 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:635 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:192 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:419 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:239 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:684 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:403 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:892 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:574 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:712 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:822 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:619 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:669 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:345 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:853 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:466 INFO  HomePage :37 - Click on add to cart button
+2019-11-05 19:11:630 INFO  HomePage :22 - Get Build Your Own Text
+2019-11-05 19:11:668 INFO  HomePage :91 - Click on computer link
+2019-11-05 19:11:391 INFO  HomePage :31 - Click on desktop image
+2019-11-05 19:11:528 INFO  HomePage :37 - Click on add to cart button
+2019-11-06 10:11:275 INFO  HomePage :65 - Click on login link
+2019-11-06 10:11:136 INFO  HomePage :52 - Get Login Page welcome text
+2019-11-06 10:11:545 INFO  HomePage :65 - Click on login link
+2019-11-06 10:11:874 INFO  HomePage :37 - Enter email address
+2019-11-06 10:11:772 INFO  HomePage :65 - Click on login link
+2019-11-06 10:11:285 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 10:11:107 INFO  HomePage :65 - Click on login link
+2019-11-06 10:11:406 INFO  HomePage :39 - Enter email address
+2019-11-06 11:11:604 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:132 INFO  HomePage :53 - Get Login Page welcome text
+2019-11-06 11:11:549 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:13 INFO  HomePage :38 - Enter email address
+2019-11-06 11:11:732 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:161 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:751 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:119 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:618 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:571 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:237 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:592 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:18 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:484 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:753 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:431 INFO  HomePage :54 - Get Login Page welcome text
+2019-11-06 11:11:34 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:483 INFO  HomePage :39 - Enter email address
+2019-11-06 11:11:171 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:712 INFO  HomePage :59 - Get Login Page welcome text
+2019-11-06 11:11:875 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:244 INFO  HomePage :39 - Enter email address
+2019-11-06 11:11:141 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:813 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 11:11:353 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:32 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:477 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:605 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:46 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:408 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 11:11:851 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:265 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:409 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:599 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:53 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:387 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 11:11:327 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:582 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:745 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:879 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:366 INFO  HomePage :61 - Verity After Login into Account
+2019-11-06 11:11:257 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:610 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 11:11:182 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:541 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:681 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:777 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:865 INFO  HomePage :61 - Verity After Login into Account
+2019-11-06 11:11:789 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:261 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:380 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:496 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:656 INFO  HomePage :61 - Verity After Login into Account
+2019-11-06 11:11:393 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:224 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:347 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:459 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:546 INFO  HomePage :61 - Verity After Login into Account
+2019-11-06 11:11:376 INFO  HomePage :65 - Click on login link
+2019-11-06 11:11:502 INFO  HomePage :40 - Enter email address
+2019-11-06 11:11:731 INFO  HomePage :45 - Enter password
+2019-11-06 11:11:913 INFO  HomePage :50 - Click on login button
+2019-11-06 11:11:102 INFO  HomePage :61 - Verity After Login into Account
+2019-11-06 12:11:685 INFO  HomePage :70 - Click on register link
+2019-11-06 12:11:661 INFO  HomePage :70 - Click on register link
+2019-11-06 12:11:259 INFO  HomePage :70 - Click on register link
+2019-11-06 12:11:653 INFO  HomePage :31 - click on male gender Radio button
+2019-11-06 12:11:775 INFO  HomePage :45 - Enter first name
+2019-11-06 12:11:932 INFO  HomePage :50 - Enter last name
+2019-11-06 12:11:89 INFO  HomePage :55 - Select date of birth
+2019-11-06 12:11:216 INFO  HomePage :60 - Select month of birth 
+2019-11-06 12:11:336 INFO  HomePage :65 - Select year of birth
+2019-11-06 12:11:443 INFO  HomePage :70 - Enter email address
+2019-11-06 12:11:653 INFO  HomePage :75 - Enter company name
+2019-11-06 12:11:809 INFO  HomePage :80 - Click on newsLetter
+2019-11-06 12:11:918 INFO  HomePage :85 - Enter password
+2019-11-06 12:11:44 INFO  HomePage :90 - Enter confirm password
+2019-11-06 12:11:167 INFO  HomePage :95 - Click on register button
+2019-11-06 13:11:448 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:793 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 13:11:240 INFO  HomePage :74 - Click on register link
+2019-11-06 13:11:196 INFO  HomePage :100 - Click on register text
+2019-11-06 13:11:457 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:93 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 13:11:909 INFO  HomePage :74 - Click on register link
+2019-11-06 13:11:518 INFO  HomePage :100 - Click on register text
+2019-11-06 13:11:244 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:664 INFO  HomePage :26 - Verify computer text
+2019-11-06 13:11:572 INFO  HomePage :100 - Click on electronic link
+2019-11-06 13:11:314 INFO  HomePage :105 - Click on apparel link
+2019-11-06 13:11:671 INFO  HomePage :110 - Click on digital download link
+2019-11-06 13:11:452 INFO  HomePage :115 - Click on books link
+2019-11-06 13:11:928 INFO  HomePage :120 - Click on jewellery link
+2019-11-06 13:11:991 INFO  HomePage :125 - Click on gift
+2019-11-06 13:11:562 INFO  HomePage :84 - Click on wishList link
+2019-11-06 13:11:168 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:404 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 13:11:306 INFO  HomePage :74 - Click on register link
+2019-11-06 13:11:623 INFO  HomePage :100 - Click on register text
+2019-11-06 13:11:372 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:428 INFO  HomePage :26 - Verify computer text
+2019-11-06 13:11:958 INFO  HomePage :100 - Click on electronic link
+2019-11-06 13:11:166 INFO  HomePage :105 - Click on apparel link
+2019-11-06 13:11:283 INFO  HomePage :110 - Click on digital download link
+2019-11-06 13:11:505 INFO  HomePage :115 - Click on books link
+2019-11-06 13:11:181 INFO  HomePage :120 - Click on jewellery link
+2019-11-06 13:11:599 INFO  HomePage :125 - Click on gift
+2019-11-06 13:11:363 INFO  HomePage :84 - Click on wishList link
+2019-11-06 13:11:830 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:27 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 13:11:225 INFO  HomePage :74 - Click on register link
+2019-11-06 13:11:808 INFO  HomePage :100 - Click on register text
+2019-11-06 13:11:679 INFO  HomePage :95 - Click on computer link
+2019-11-06 13:11:978 INFO  HomePage :26 - Verify computer text
+2019-11-06 13:11:710 INFO  HomePage :100 - Click on electronic link
+2019-11-06 13:11:917 INFO  HomePage :105 - Click on apparel link
+2019-11-06 13:11:887 INFO  HomePage :110 - Click on digital download link
+2019-11-06 13:11:340 INFO  HomePage :115 - Click on books link
+2019-11-06 13:11:802 INFO  HomePage :120 - Click on jewellery link
+2019-11-06 13:11:890 INFO  HomePage :125 - Click on gift
+2019-11-06 13:11:124 INFO  HomePage :84 - Click on wishList link
+2019-11-06 13:11:235 INFO  HomePage :100 - Click on electronic link
+2019-11-06 13:11:485 INFO  HomePage :69 - Click on login link
+2019-11-06 13:11:63 INFO  HomePage :55 - Get Login Page welcome text
+2019-11-06 13:11:351 INFO  HomePage :74 - Click on register link
+2019-11-06 13:11:638 INFO  HomePage :100 - Click on register text
+2019-11-06 13:11:800 INFO  HomePage :95 - Click on computer link
+2019-11-06 13:11:318 INFO  HomePage :26 - Verify computer text
+2019-11-06 13:11:152 INFO  HomePage :100 - Click on electronic link
+2019-11-06 13:11:256 INFO  HomePage :105 - Click on apparel link
+2019-11-06 13:11:749 INFO  HomePage :110 - Click on digital download link
+2019-11-06 13:11:791 INFO  HomePage :115 - Click on books link
+2019-11-06 13:11:700 INFO  HomePage :120 - Click on jewellery link
+2019-11-06 13:11:86 INFO  HomePage :125 - Click on gift
+2019-11-06 13:11:911 INFO  HomePage :84 - Click on wishList link

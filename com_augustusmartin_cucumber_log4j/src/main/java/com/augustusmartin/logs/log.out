@@ -1,0 +1,11 @@
+2019-11-05 01:11:833 INFO  BrowserSelector :17 - Chrome browser launch
+2019-11-05 01:11:835 INFO  AboutPage :31 - Click on About Link
+2019-11-05 01:11:429 INFO  AboutPage :36 - getting Header Text from About Page
+2019-11-05 01:11:251 INFO  BrowserSelector :17 - Chrome browser launch
+2019-11-05 01:11:276 INFO  AboutPage :31 - Click on About Link
+2019-11-05 01:11:909 INFO  AboutPage :41 - Click on Quality Link
+2019-11-05 01:11:401 INFO  AboutPage :46 - getting header Text from Quality page
+2019-11-05 01:11:169 INFO  BrowserSelector :17 - Chrome browser launch
+2019-11-05 01:11:692 INFO  AboutPage :31 - Click on About Link
+2019-11-05 01:11:258 INFO  AboutPage :51 - Click on Environment Link
+2019-11-05 01:11:709 INFO  AboutPage :56 - getting header Text from Environment page 
